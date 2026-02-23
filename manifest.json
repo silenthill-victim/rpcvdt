@@ -1,11 +1,8 @@
 {
-  "name": "RPC Status Rotator",
-  "description": "Rotate custom status automatically",
+  "name": "RPC VDT",
+  "description": "Custom rich presence",
   "authors": [
-    {
-      "name": "Tuan"
-    }
+    { "name": "silenthill-victim" }
   ],
-  "main": "index.js",
-  "version": "1.0.0"
+  "main": "index.js"
 }
