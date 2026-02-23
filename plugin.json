@@ -1,1 +1,11 @@
-["{\n  \"name\": \"Custom RPC\",\n  \"description\": \"Custom Rich Presence for mobile\",\n  \"authors\": [\n    {\n      \"name\": \"Ported for you\"\n    }\n  ],\n  \"main\": \"index.js\"\n}"]
+{
+  "name": "RPC Status Rotator",
+  "description": "Rotate custom status automatically",
+  "authors": [
+    {
+      "name": "Tuan"
+    }
+  ],
+  "main": "index.js",
+  "version": "1.0.0"
+}
