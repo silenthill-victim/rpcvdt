@@ -1,0 +1,1 @@
+["{\n  \"name\": \"Custom RPC\",\n  \"description\": \"Custom Rich Presence for mobile\",\n  \"authors\": [\n    {\n      \"name\": \"Ported for you\"\n    }\n  ],\n  \"main\": \"index.js\"\n}"]
